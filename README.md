@@ -12,7 +12,7 @@ Para participar de la traducción por favor;
 
 1. Haga un Fork del repositorio.
 
-2. Revise en el documento de avances que porciones se encuentran en traducción. 
+2. Revise en el ~~documento de avances~~ que porciones se encuentran en traducción. 
 
 3. Coloque en la sección de [Issues](https://github.com/talueses/Guia-de-errores-en-css/issues) el
 título del archivo que va a traducir. 
@@ -22,7 +22,7 @@ título del archivo que va a traducir.
 5. Devuelva los cambios vía Pull Request. 
 
 
-Ésto para que otro colaborador pueda hacer una revisión rápida de lo que
+Esto para que otro colaborador pueda hacer una revisión rápida de lo que
 tradujo.
 
 En caso de realizar una revisión global de ortografía o redacción por favor
